@@ -1,5 +1,5 @@
 
-<p> You can also download the version with N1ED-Skin from <a href=https://https://pluginza.com/plugins/n1ed>Pluginza</a>.  </p>
+<p> You can also download the version with N1ED-Skin from <a href=https://https://pluginza.com/plugins/n1ed>Pluginza</a>.  and a similar plugin from <a href=https://ckeditor.com/cke4/addon/N1ED-editor>Ckeditor.com</a> </p>
 
 <p>For Typesetter CMS You can add the N1ED - skin-folder to include/thirdparty/ckeditor/skins . </p>
 <p> Then take the plugin.js together with license and readme and zip it into N1ED.zip. For installation You must import this N1ED.zip under settings -> Ckeditor.  </p>
