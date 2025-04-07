@@ -1,3 +1,11 @@
+
+<p> For Typesetter CMS You can add the N1ED - skin-folder to include/thirdparty/ckeditor/skins . Then take the plugin.js together with license and readme and zip it into N1ED.zip.
+<br>
+For installation You must import this N1ED.zip under settings -> Ckeditor.  
+<br>
+You can also register for a free Api-key at N1ED.com , which you can paste into the plugin.js under data/ckekitor/N1ED -> plugin.js</p>
+<hr size=1>
+<p>    
 <p align="center">
     <a href="https://n1ed.com/"><img src="https://n1ed.com/img/favicons/favicon-64x64.png" alt="N1ED" /></a>
 </p>
