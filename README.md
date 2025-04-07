@@ -5,7 +5,7 @@
 <p> Then take the plugin.js together with license and readme and zip it into N1ED.zip. For installation You must import this N1ED.zip under settings -> Ckeditor.  </p>
 <p>You can register for a free Api-key at N1ED.com , which you can paste into the config.js ( include/thirdparty/ckeditor -> config.js) .</p>
 <p>Add to the next line behind // config.uiColor = '#AADC6E';  config.apiKey = "AFFxktthzt...jatjri7uggG7"; </p>    
-
+<p> P.S. N1ED functions at the moment only with Admin/Extra -> Extra Areas as editor because it positions itself over the top of ckeditor. In the page ckeditor is fixed at right top. </p>
 <hr size=1>
 <p>    
 <p align="center">
