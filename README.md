@@ -1,7 +1,9 @@
 
 <p> You can also download the version with N1ED-Skin from <a href=https://https://pluginza.com/plugins/n1ed>Pluginza</a>.  and a similar plugin from <a href=https://ckeditor.com/cke4/addon/N1ED-editor>Ckeditor.com</a> . <br>The plugin.js loads further code from <a href=https://cloud.n1ed.com/cdn/YOUR_API_KEY/latest/ckeditor/plugins/N1EDEco/plugin.js>N1EDEco</a>. </p>
 
-<p>For Typesetter CMS You can add the N1ED - skin-folder to include/thirdparty/ckeditor/skins . </p>
+* Caution : The plugin adds a registration-code (abcdef) link with a ned.com/abcdef_widget.js to every page. 
+                                                                                            
+<p>For Typesetter CMS You could add the N1ED - skin-folder to include/thirdparty/ckeditor/skins . </p>
 <p> Then take the plugin.js together with license and readme and zip it into N1ED.zip. For installation You must import this N1ED.zip under settings -> Ckeditor.  </p>
 <p>You can register for a free Api-key at N1ED.com , which you can paste into the config.js ( include/thirdparty/ckeditor -> config.js) .</p>
 <p>Add to the next line behind // config.uiColor = '#AADC6E';  config.apiKey = "AFFxktthzt...jatjri7uggG7"; </p>    
